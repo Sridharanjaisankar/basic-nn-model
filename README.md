@@ -129,7 +129,8 @@ ai_brain.predict(x_n_n)
 
 ## Dataset Information
 
-![image](https://github.com/SOMEASVAR/basic-nn-model/assets/93434149/7ec73229-0815-45cc-a100-1e0cc9117b8d)
+![image](https://github.com/Sridharanjaisankar/basic-nn-model/assets/119405017/3eb6b715-6b05-4013-a9ca-4dd2cc4880c0)
+
 
 ## OUTPUT
 
